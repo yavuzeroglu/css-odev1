@@ -1,0 +1,56 @@
+.fm-seg {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fm-treb {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fc-white {
+    color: #F2EBE9;
+}
+/*
+.bc-gre {
+    background-color: #c2ded1;
+}
+.bc-bc {
+    background-color: #ECE5C7;
+}
+body {
+    background-size: cover;
+}
+*/
+
+.bosluk {
+    margin-top: 10px;
+    margin: bottom 10px;
+    margin-left: 400px;
+    margin-right:400px;
+    /* border: 3px solid black; */
+    border-bottom: 5px ridge #C69B7B; 
+}
+
+.onrenk {
+    background-color: #AD8B73;
+    color:#FBF8F1;
+    display:block;
+
+}
+
+a {
+    color: #FBF8F1;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    padding: left 10px;
+     
+    }
+
+.menu {
+    padding-left: 10px;
+}
